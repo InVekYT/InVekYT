@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi 👋, I'm InVekYT
 
-<!--
-**InVekYT/InVekYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚧 Current projects
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [CityV](https://discord.gg/cityv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my scripts are available at [https://invekdeveloppementscript.tebex.io/](https://invekdeveloppementscript.tebex.io/)
+
+#
+
+### 📲 Connect with me
+<p align="left">
+<a href="https://www.youtube.com/channel/UCe_w2gvQmYpcojO6vy1RBfw" target="blank"><img align="center" src="https://img.shields.io/badge/SUBSCRIBE-ME?style=for-the-badge&logo=youtube&color=red" alt="invek" /></a>
+<a href="https://github.com/InVekYT" target="blank"><img align="center" src="https://img.shields.io/github/followers/InVekYT?style=for-the-badge&logo=github&logoColor=white&label=Github&color=grey" alt="InVek"/></a>
+<a href="https://www.twitch.tv/invekyt" target="blank"><img align="center" src="https://img.shields.io/badge/FOLLOW-ME?style=for-the-badge&logo=twitch&logoColor=white&color=purple" alt="InVek"/></a>
+</p>
+
+#
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+
+<br/>
+
+#
+
+### 📊 Stats
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=InVekYT&show_icons=true&theme=radical)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=invekyt&label=Profile%20views&color=0e75b6&style=flat" alt="invekyt" /> </p>
+
+#
