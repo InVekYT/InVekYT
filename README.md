@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [CityV](https://discord.gg/cityv)
 
-- 👨‍💻 All of my scripts are available at [https://invekdeveloppementscript.tebex.io/](https://invekdeveloppementscript.tebex.io/)
+- 👨‍💻 All of my scripts are available at [https://tebex.invek.shop/](https://tebex.invek.shop/)
 
 #
 
