@@ -2,7 +2,7 @@
 
 ### 🚧 Current projects
 
-- 🔭 I’m currently working on [CityV](https://discord.gg/cityv)
+- 🔭 I’m currently working on [CityV](https://discord.gg/cityv) & [Viceland](https://discord.gg/viceland)
 
 - 👨‍💻 All of my scripts are available at [https://tebex.invek.shop/](https://tebex.invek.shop/)
 
@@ -23,7 +23,6 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://reactnative.dev/img/header_logo.svg"/>
 
 <br/>
 
