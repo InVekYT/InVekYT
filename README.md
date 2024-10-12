@@ -2,7 +2,7 @@
 
 ### 🚧 Current projects
 
-- 🔭 I’m currently working on [CityV](https://discord.gg/cityv) & [Viceland](https://discord.gg/viceland)
+- 🔭 I’m currently working on [CityV](https://discord.gg/cityv) & [Viceland](https://discord.gg/viceland) & [Serenity](https://discord.gg/serenityfa)
 
 - 👨‍💻 Some of my scripts are available at [https://tebex.invek.shop/](https://tebex.invek.shop/)
 
