@@ -2,7 +2,7 @@
 
 ### 🚧 Current projects
 
-- 🔭 I’m currently working on [Viceland](https://discord.gg/viceland) & [Serenity](https://discord.gg/serenityfa)
+- 🔭 I’m currently working on [Viceland RP](https://discord.gg/viceland) & [Serenity RP](https://discord.gg/serenityfa) & [Vinity RP](https://discord.gg/vinity)
 
 - 👨‍💻 Some of my scripts are available at [https://tebex.invek.shop/](https://tebex.invek.shop/)
 
