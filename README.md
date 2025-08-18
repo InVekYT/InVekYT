@@ -2,7 +2,7 @@
 
 ### 🚧 Current projects
 
-- 🔭 I’m currently working on [BlueStark RP](https://discord.gg/bluestarkrp) & [Serenity RP](https://discord.gg/serenityfa)
+- 🔭 I’m currently working on [BlueStark RP](https://discord.gg/bluestarkrp) & [Serenity RP](https://discord.gg/serenityfa) & [Melrose RP](https://discord.gg/melrose)
 
 - 👨‍💻 Some of my scripts are available at [https://tebex.invek.shop/](https://tebex.invek.shop/)
 
