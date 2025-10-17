@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCe_w2gvQmYpcojO6vy1RBfw" target="blank"><img align="center" src="https://img.shields.io/badge/SUBSCRIBE-ME?style=for-the-badge&logo=youtube&color=red" alt="invek" /></a>
 <a href="https://github.com/InVekYT" target="blank"><img align="center" src="https://img.shields.io/github/followers/InVekYT?style=for-the-badge&logo=github&logoColor=white&label=Github&color=grey" alt="InVek"/></a>
-<a href="https://www.twitch.tv/invekyt" target="blank"><img align="center" src="https://img.shields.io/badge/FOLLOW-ME?style=for-the-badge&logo=twitch&logoColor=white&color=purple" alt="InVek"/></a>
 </p>
 
 #
@@ -24,6 +23,9 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 <br/>
 
