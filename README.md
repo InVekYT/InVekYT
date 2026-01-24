@@ -3,7 +3,7 @@
 
 ### 🚧 Current projects
 
-- 🔭 I’m currently working on [Mirano RP](https://discord.gg/mirano) & [Serenity RP](https://discord.gg/serenityfa)
+- 🔭 I’m currently working on [Destiny RP](https://discord.gg/destinyv2) & [Serenity RP](https://discord.gg/serenityfa)
 
 - 👨‍💻 Some of my scripts are available at [https://tebex.invek.shop/](https://tebex.invek.shop/)
 
