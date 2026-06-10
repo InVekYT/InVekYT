@@ -3,7 +3,7 @@
 
 ### 🚧 Current projects
 
-- 🔭 I’m currently working on [Destiny RP](https://discord.gg/destinyv2) & [Mirano RP](https://discord.gg/mirano)
+- 🔭 I’m currently working on [Destiny RP](https://discord.gg/destinyv2)
 
 - 👨‍💻 Some of my scripts are available at [https://tebex.invek.shop/](https://tebex.invek.shop/)
 
